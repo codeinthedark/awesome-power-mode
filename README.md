@@ -24,5 +24,5 @@
 
 ## XCode
 
+- https://github.com/poboke/ActivatePowerMode
 - https://github.com/qfish/XActivatePowerMode
-
