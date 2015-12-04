@@ -14,6 +14,10 @@
 
 - https://github.com/mattn/vim-particle
 
+## Visual Studio 
+
+- https://github.com/LiamMorrow/Visual-Studio-Power-Mode
+
 ## Windows
 
 - https://github.com/if1live/ParticleOnTextCursor
@@ -21,3 +25,4 @@
 ## XCode
 
 - https://github.com/qfish/XActivatePowerMode
+
