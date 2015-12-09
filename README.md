@@ -10,6 +10,10 @@
 
 - https://github.com/chinchang/code-blast-codemirror
 
+## JavaScript
+
+- https://github.com/disjukr/activate-power-mode
+
 ## VIM
 
 - https://github.com/mattn/vim-particle
@@ -26,3 +30,4 @@
 
 - https://github.com/poboke/ActivatePowerMode
 - https://github.com/qfish/XActivatePowerMode
+- https://github.com/Dawn-/CoderPower
