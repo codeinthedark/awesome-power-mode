@@ -10,6 +10,10 @@
 
 - https://github.com/chinchang/code-blast-codemirror
 
+## IDEA
+
+- https://github.com/ViceFantasyPlace/activate-power-mode
+
 ## JavaScript
 
 - https://github.com/disjukr/activate-power-mode
