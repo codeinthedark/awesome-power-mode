@@ -6,6 +6,10 @@
 
 - https://github.com/JoelBesada/activate-power-mode
 
+## Brackets
+
+- https://github.com/Equals182/brackets-power-mode
+
 ## Codemirror
 
 - https://github.com/chinchang/code-blast-codemirror
