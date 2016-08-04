@@ -21,6 +21,7 @@
 ## IDEA
 
 - https://github.com/ViceFantasyPlace/activate-power-mode
+- https://github.com/axaluss/power-mode-intellij-plugin (https://plugins.jetbrains.com/plugin/8251)
 
 ## JavaScript
 
