@@ -30,6 +30,10 @@
 
 - https://github.com/LiamMorrow/Visual-Studio-Power-Mode
 
+## Visual Studio Code
+
+- https://github.com/hoovercj/vscode-power-mode
+
 ## Windows
 
 - https://github.com/if1live/ParticleOnTextCursor
