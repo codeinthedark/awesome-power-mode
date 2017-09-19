@@ -35,6 +35,7 @@
 ## Visual Studio 
 
 - https://github.com/LiamMorrow/Visual-Studio-Power-Mode
+- https://github.com/BigEggTools/PowerMode
 
 ## Windows
 
