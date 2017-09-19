@@ -14,6 +14,10 @@
 
 - https://github.com/chinchang/code-blast-codemirror
 
+## HyperTerm
+
+- https://github.com/zeit/hyperpower
+
 ## IDEA
 
 - https://github.com/ViceFantasyPlace/activate-power-mode
