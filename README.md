@@ -28,6 +28,10 @@
 - https://github.com/disjukr/activate-power-mode
 - https://github.com/itszero/rage-power (React.js component)
 
+## Notepad++
+
+- https://github.com/dail8859/PowerMode
+
 ## VIM
 
 - https://github.com/mattn/vim-particle
