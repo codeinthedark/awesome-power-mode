@@ -24,7 +24,7 @@
 - https://github.com/axaluss/power-mode-intellij-plugin (https://plugins.jetbrains.com/plugin/8251)
 
 ## JavaScript
-
+- https://github.com/lindelof/power-mode-input
 - https://github.com/disjukr/activate-power-mode
 - https://github.com/itszero/rage-power (React.js component)
 
