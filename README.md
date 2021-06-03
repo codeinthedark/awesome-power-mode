@@ -14,6 +14,10 @@
 
 - https://github.com/chinchang/code-blast-codemirror
 
+## Emacs
+
+- https://github.com/elizagamedev/power-mode.el
+
 ## HyperTerm
 
 - https://github.com/zeit/hyperpower
