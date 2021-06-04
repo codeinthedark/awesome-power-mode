@@ -45,7 +45,7 @@
 
 - https://github.com/if1live/ParticleOnTextCursor
 
-## XCode
+## Xcode
 
 - https://github.com/poboke/ActivatePowerMode
 - https://github.com/qfish/XActivatePowerMode
