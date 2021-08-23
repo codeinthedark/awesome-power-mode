@@ -14,6 +14,10 @@
 
 - https://github.com/chinchang/code-blast-codemirror
 
+## Godot
+
+- https://github.com/jotson/ridiculous_coding
+
 ## HyperTerm
 
 - https://github.com/zeit/hyperpower
@@ -27,6 +31,11 @@
 
 - https://github.com/disjukr/activate-power-mode
 - https://github.com/itszero/rage-power (React.js component)
+
+## Textreme
+
+- https://github.com/cis-ash/TEXTREME (standalone editor)
+  [Textreme 1 video](https://youtu.be/_c1JqMB0GnY) | [Textreme 2 retrospective video](https://youtu.be/rYlVhF83N7A)
 
 ## VIM
 
